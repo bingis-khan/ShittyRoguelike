@@ -3,7 +3,7 @@ plugins {
 }
 
 application {
-	mainClassName = "com.bingis_khan.Engine"
+	mainClassName = "com.bingis_khan.shitty_roguelike.game.main.Game"
 }
 
 repositories {
